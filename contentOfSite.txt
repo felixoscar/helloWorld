@@ -1,0 +1,4 @@
+this is some content to be on the site:
+/index.
+/login.
+/publications.
