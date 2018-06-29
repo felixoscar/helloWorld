@@ -1,5 +1,6 @@
 # helloWorld
 my first github repository
 
-topic of the day and tomorrow
+@felixoscar is trying to learn github
 
+and what else...
